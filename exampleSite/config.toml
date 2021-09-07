@@ -485,7 +485,7 @@ ignoreErrors = ["error-remote-getjson"]
         recordIP = true
         highlight = true
         enableQQ = false
-        serverURLs = "https://leancloud.hugoloveit.com"
+        serverURLs = "https://"
         # emoji data file name, default is "google.yml"
         # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
         # located in "themes/LoveIt/assets/data/emoji/" directory
@@ -680,7 +680,7 @@ ignoreErrors = ["error-remote-getjson"]
 # Author config
 # 作者配置
 [author]
-  name = "Copyright@Asif Iqbal"
+  name = "Modified By Asif Iqbal"
   email = ""
   link = ""
 
