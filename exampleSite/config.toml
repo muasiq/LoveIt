@@ -290,7 +290,7 @@ ignoreErrors = ["error-remote-getjson"]
     copyright = false
     # whether to show the author
     # 是否显示作者
-    author = false
+    author = true
     # site creation time
     # 网站创立年份
     since = 2021
@@ -680,7 +680,7 @@ ignoreErrors = ["error-remote-getjson"]
 # Author config
 # 作者配置
 [author]
-  name = "xxxx"
+  name = "Asif Iqbal"
   email = ""
   link = ""
 
