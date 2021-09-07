@@ -160,15 +160,15 @@ ignoreErrors = ["error-remote-getjson"]
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "xxxx"
+        GitHub = "muasiq"
         Linkedin = ""
-        Twitter = "xxxx"
+        Twitter = "muasiq"
         #Instagram = "xxxx"
-        Facebook = "xxxx"
+        #Facebook = "xxxx"
         Telegram = "xxxx"
         Medium = ""
         Gitlab = ""
-        Youtubelegacy = "xxxx"
+        #Youtubelegacy = "xxxx"
         Youtubecustom = ""
         Youtubechannel = ""
         Tumblr = ""
@@ -222,10 +222,10 @@ ignoreErrors = ["error-remote-getjson"]
         Matrix = ""
         Bilibili = ""
         Email = "iqmazif@gmail.com"
-        RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
+        RSS = false
+        #[languages.en.params.social.Mastodon]
+        #  id = "@xxxx"
+        #  prefix = "https://mastodon.technology/"
 
 [params]
   # LoveIt theme version
