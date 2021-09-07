@@ -474,8 +474,8 @@ ignoreErrors = ["error-remote-getjson"]
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = true
-        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
-        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
+        appId = "k6QIKz0B1IMwX0ihIch6R65Q-MdYXbMMI"
+        appKey = "8VLtamILWKCP4537vJeMXQ8I"
         placeholder = ""
         avatar = "mp"
         meta= ""
@@ -485,7 +485,7 @@ ignoreErrors = ["error-remote-getjson"]
         recordIP = true
         highlight = true
         enableQQ = false
-        serverURLs = "https://"
+        serverURLs = "https://k6qikz0b.rtm.lncldglobal.com"
         # emoji data file name, default is "google.yml"
         # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
         # located in "themes/LoveIt/assets/data/emoji/" directory
