@@ -680,7 +680,7 @@ ignoreErrors = ["error-remote-getjson"]
 # Author config
 # 作者配置
 [author]
-  name = "Asif Iqbal"
+  name = "Copyright@Asif Iqbal"
   email = ""
   link = ""
 
