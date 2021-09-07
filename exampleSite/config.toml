@@ -425,7 +425,7 @@ ignoreErrors = ["error-remote-getjson"]
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = true
+      Facebook = false
       Linkedin = false
       Whatsapp = false
       Pinterest = false
@@ -435,7 +435,7 @@ ignoreErrors = ["error-remote-getjson"]
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
@@ -552,7 +552,7 @@ ignoreErrors = ["error-remote-getjson"]
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
-        name = "xxxx"
+        name = "AI"
         logoUrl = "/images/avatar.png"
 
   # TypeIt config
