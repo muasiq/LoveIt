@@ -1,5 +1,6 @@
 {{- $content := .Content -}}
 
+{{- if ne "" $content -}}
 {{- if .Ruby -}}
     {{- $content = partial "function/ruby.html" $content -}}
 {{- end -}}
@@ -8,12 +9,9 @@
     {{- $content = partial "function/fraction.html" $content -}}
 {{- end -}}
 
-{{- if .Fontawesome -}}
-    {{- $content = partial "function/fontawesome.html" $content -}}
-{{- end -}}
-
 {{- $content = partial "function/checkbox.html" $content -}}
 
 {{- $content = partial "function/escape.html" $content -}}
+{{- end -}}
 
 {{- return $content -}}
