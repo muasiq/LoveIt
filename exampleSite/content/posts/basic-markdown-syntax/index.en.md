@@ -13,8 +13,8 @@ resources:
 
 
 
-tags: ["Markdown", "HTML"]
-categories: ["Markdown"]  
+tags: ["Syntax"]
+categories: ["Essays"]  
 
 lightgallery: true
 ---
