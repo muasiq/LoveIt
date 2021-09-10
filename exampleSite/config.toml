@@ -52,16 +52,16 @@ ignoreErrors = ["error-remote-getjson"]
         # title will be shown when you hover on this menu link.
         title = ""
         weight = 1
-    #  [[languages.en.menu.main]]
-     #   identifier = "tags"
-      #  pre = ""
-     #   post = ""
+  #  [[languages.en.menu.main]]
+   #     identifier = "tags"
+    #    pre = ""
+    #    post = ""
      #   name = "Tags"
-    #    url = "/tags/"
-     #   title = ""
-     #   weight = 2
-     # [[languages.en.menu.main]]
-      #  identifier = "categories" 
+     #   url = "/tags/"
+      #  title = ""
+       # weight = 2
+    #  [[languages.en.menu.main]]
+     #   identifier = "categories" 
        # pre = ""
       #  post = ""
       #  name = "Categories"
