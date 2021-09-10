@@ -11,8 +11,8 @@ resources:
 - name: ""
   src: ""
 
-tags: ["Markdown", "HTML"]
-categories: ["Markdown"]
+tags: ["Nonfiction"]
+categories: ["Nonfiction"]
 
 lightgallery: true
 ---
