@@ -62,20 +62,28 @@ ignoreErrors = ["error-remote-getjson"]
         weight = 2
      [[languages.en.menu.main]]
         identifier = "categories" 
-       pre = ""
+        pre = ""
         post = ""
         name = "Categories"
-       url = "/categories/"
+        url = "/categories/"
         title = ""
         weight = 3 
-  #    [[languages.en.menu.main] 
-   #     identifier = "documentation"
-    #    pre = ""
-     #   post = ""
-      #  name = "Docs"
-     #   url = "/categories/documentation/"
-      #  title = ""
-      #  weight = 4
+     [[languages.en.menu.main] 
+        identifier = "fiction"
+        pre = ""
+        post = ""
+        name = "Fiction"
+        url = "/categories/fiction/"
+        title = ""
+        weight = 4
+      [[languages.en.menu.main] 
+        identifier = "nonfiction"
+        pre = ""
+        post = ""
+        name = "Nonfiction"
+        url = "/categories/nonfiction/"
+        title = ""
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
