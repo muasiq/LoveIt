@@ -11,7 +11,7 @@ themesDir = "../.."
 
 # website title
 # 网站标题
-title = "Asif's Page"
+title = "Iqasif"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -68,7 +68,7 @@ ignoreErrors = ["error-remote-getjson"]
         url = "/categories/"
         title = ""
         weight = 3 
-     [[languages.en.menu.main] 
+     [[languages.en.menu.main]]
         identifier = "fiction"
         pre = ""
         post = ""
@@ -76,7 +76,7 @@ ignoreErrors = ["error-remote-getjson"]
         url = "/categories/fiction/"
         title = ""
         weight = 4
-      [[languages.en.menu.main] 
+      [[languages.en.menu.main]]
         identifier = "nonfiction"
         pre = ""
         post = ""
@@ -97,7 +97,7 @@ ignoreErrors = ["error-remote-getjson"]
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/muasiq/LoveIt"
+        url = "https://github.com/muasiq"
         title = "GitHub"
         weight = 6
     [languages.en.params]
@@ -108,7 +108,7 @@ ignoreErrors = ["error-remote-getjson"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "Asif's Page"
+        title = "Iqasif"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -154,7 +154,7 @@ ignoreErrors = ["error-remote-getjson"]
           # title shown in home page (HTML format is supported)
           title = ""
           # subtitle shown in home page
-          subtitle = "Hi there, Welcome from Asif"
+          subtitle = "“You cannot discover new oceans unless you have the courage to lose sight of the shore”"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
