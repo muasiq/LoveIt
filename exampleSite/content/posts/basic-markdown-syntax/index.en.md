@@ -11,11 +11,10 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: []
-categories: []
 
-<!-- tags: ["Markdown", "HTML"]
-categories: ["Markdown"]  -->
+
+tags: ["Markdown", "HTML"]
+categories: ["Markdown"]  
 
 lightgallery: true
 ---
