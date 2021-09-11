@@ -68,22 +68,22 @@ ignoreErrors = ["error-remote-getjson"]
         url = "/categories/"
         title = ""
         weight = 3 
-     [[languages.en.menu.main]]
-        identifier = "fiction"
-        pre = ""
-        post = ""
-        name = "Fiction"
-        url = "/categories/fiction/"
-        title = ""
-        weight = 4
-      [[languages.en.menu.main]]
-        identifier = "nonfiction"
-        pre = ""
-        post = ""
-        name = "Nonfiction"
-        url = "/categories/nonfiction/"
-        title = ""
-        weight = 4
+   #  [[languages.en.menu.main]]
+   #     identifier = "fiction"
+    #    pre = ""
+     #   post = ""
+      #  name = "Fiction"
+     #   url = "/categories/fiction/"
+      #  title = ""
+      #  weight = 4
+   #   [[languages.en.menu.main]]
+    #    identifier = "nonfiction"
+    #    pre = ""
+    #    post = ""
+     #   name = "Nonfiction"
+     #   url = "/categories/nonfiction/"
+     #   title = ""
+     #   weight = 4
       [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
@@ -91,7 +91,7 @@ ignoreErrors = ["error-remote-getjson"]
         name = "About"
         url = "/about/"
         title = ""
-        weight = 5
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
@@ -99,7 +99,7 @@ ignoreErrors = ["error-remote-getjson"]
         name = ""
         url = "https://github.com/muasiq"
         title = "GitHub"
-        weight = 6
+        weight = 5
     [languages.en.params]
       # site description
       description = "Personal Page"
