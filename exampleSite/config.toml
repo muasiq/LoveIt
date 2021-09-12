@@ -138,8 +138,8 @@ ignoreErrors = ["error-remote-getjson"]
         absoluteURL = false
         [languages.en.params.search.algolia]
           index = "index.en"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+          appID = "AFGNVXO6UE"
+          searchKey = "af9a691560a7b5a7efd345f3f1f7defd"
       # Home page config
       [languages.en.params.home]
         # amount of RSS pages
