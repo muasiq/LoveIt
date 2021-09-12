@@ -362,7 +362,7 @@ ignoreErrors = ["error-remote-getjson"]
     fontawesome = true
     # whether to show link to Raw Markdown content of the content
     # 是否显示原始 Markdown 文档内容的链接
-    linkToMarkdown = true
+    linkToMarkdown = false
     # whether to show the full text content in RSS
     # 是否在 RSS 中显示全文内容
     rssFullText = false
@@ -569,7 +569,7 @@ ignoreErrors = ["error-remote-getjson"]
   [params.typeit]
     # typing speed between each step (measured in milliseconds)
     # 每一步的打字速度 (单位是毫秒)
-    speed = 100
+    speed = 400
     # blinking speed of the cursor (measured in milliseconds)
     # 光标的闪烁速度 (单位是毫秒)
     cursorSpeed = 1000
